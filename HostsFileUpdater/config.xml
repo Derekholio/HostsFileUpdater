@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<HostFiles>
+  <HostFile>
+    <Name>Someone Who Cares</Name>
+    <URL>http://someonewhocares.org/hosts/hosts</URL>
+  </HostFile>
+  <HostFile>
+    <Name>Adware and Malware</Name>
+    <URL>http://sbc.io/hosts/hosts</URL>
+  </HostFile>
+</HostFiles>
